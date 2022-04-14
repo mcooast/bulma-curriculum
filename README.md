@@ -1,6 +1,6 @@
 <h2>Bulma Curriculum</h2>
 
-Project developed during Fullstack Web Development classes at One Bit Code.
+Project developed during Fullstack Web Development classes at One Bit Code using the bulma framework.
 
 Final result - Web version:
 
